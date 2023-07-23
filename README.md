@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/ZXQ1h19/IMG-20230125-101451-860.jpg">
+  <img src="">
 </div>
 <br>
 
@@ -13,7 +13,6 @@ Now I have quite mastered a few skills such as JavaScript, PHP, and several Web 
   - CSS
   - JavaScript
   - PHP
-  - Java/XML
 
 ## Fun Fact About Me:
 - My Age: 17 y.o
