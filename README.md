@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.ibb.co/25g5G6C/png-20220324-061739-0000.png">
+    <img src="https://i.ibb.co/ZXQ1h19/IMG-20230125-101451-860.jpg">
   </div>
   <br>
   
@@ -28,10 +28,7 @@
   - [Click Here](https://saweria.co/powergabb)
   
   
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahirrrr&show_icons=true&theme=dracula">
-  </div>
+
   
   
   ## <div align="center">⚡ Tech Stack </div>
