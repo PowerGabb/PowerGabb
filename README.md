@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/ZXQ1h19/IMG-20230125-101451-860.jpg" alt="Tech Stack" border="0">
+  <img src="https://i.ibb.co/ZXQ1h19/IMG-20230125-101451-860.jpg">
 </div>
 <br>
 
