@@ -4,7 +4,7 @@
 <br>
 
 Hi, I’m Rangga Bayu Pratama, or you can call me Rangga. I'm a student from Indonesia 🇮🇩 who likes to learn new technologies!
-I started playing with codes in 6th grade of elementary school (around 11 years old, 2018) with plain HTML/CSS and JavaScript.
+I started playing with codes in 6th grade of elementary school with plain HTML/CSS and JavaScript.
 Now I have quite mastered a few skills such as JavaScript, PHP, and several Web Development Frameworks.
 <br>
 
