@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fdc13a02.css",
+    "main.js": "/static/js/main.55916aa3.js",
+    "static/media/Rasif Taghizade Resume.pdf": "/static/media/Rasif Taghizade Resume.6405eae8af5abe173880.pdf",
+    "static/media/Educational Website.jpg": "/static/media/Educational Website.97050bafaa509873a210.jpg",
+    "static/media/Me.png": "/static/media/Me.28f5d921ce34de00b0b8.png",
+    "static/media/Startup Agency Project.jpg": "/static/media/Startup Agency Project.dcb42126ea6ff853c8f3.jpg",
+    "static/media/Covid-19 Project.jpg": "/static/media/Covid-19 Project.285d47443247c9a7a625.jpg",
+    "static/media/RubyCode Blog Project.jpg": "/static/media/RubyCode Blog Project.d46d52b39719c767823a.jpg",
+    "static/media/Jokes Project.jpg": "/static/media/Jokes Project.133f44f42c2b6b0c1781.jpg",
+    "index.html": "/index.html",
+    "main.fdc13a02.css.map": "/static/css/main.fdc13a02.css.map",
+    "main.55916aa3.js.map": "/static/js/main.55916aa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdc13a02.css",
+    "static/js/main.55916aa3.js"
+  ]
+}
