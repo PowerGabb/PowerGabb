@@ -15,14 +15,12 @@ Now I have quite mastered a few skills such as JavaScript, PHP, and several Web 
   - PHP
 
 ## Fun Fact About Me:
-- My Age: 17 y.o
+- My Age: 19 y.o
 - My Height: 162 Cm
 - Location: Bogor, Indonesia
 
-🌱 I'm currently learning Reactjs and Laravel.
+🌱 I'm currently working as full stack web-developer.
 
-**Donate To Support Me :)**
-- [Click Here](https://saweria.co/powergabb)
 
 ## <div align="center">⚡ Tech Stack </div>
 <div align="center">
